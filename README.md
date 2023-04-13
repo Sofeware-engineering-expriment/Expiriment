@@ -1,8 +1,10 @@
 # Expiriment
 
-# 刘昱欣
+# 个人简历
 
-## 自我简介
+## 个人信息
+
+
 
 华中师范大学计算机学院2020级本科生。就读专业为计算机科学与技术（华为基地班）。华师木犀团队Android组成员，有丰富的项目经验和开发经历。
 
@@ -136,7 +138,7 @@
 ## 个人信息
 
  <img  src="https://github.com/Sofeware-engineering-expriment/Expiriment/blob/main/rml.jpg" />
- 
+
 * **姓名：** 冉茂玲                           　　　　　　　　　　　　　
 * **民族：** 汉　　　　　　　　　　　　　　　
 * **政治面貌：** 共青团员　　　　　　　　　　　　
