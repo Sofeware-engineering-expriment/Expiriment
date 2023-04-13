@@ -2,7 +2,9 @@
 
 # 个人简历
 
-<img  src="https://github.com/Sofeware-engineering-expriment/Expiriment/blob/main/1611203101224.jpg" />
+<img  src="https://github.com/Sofeware-engineering-expriment/Expiriment/blob/main/1611203101224.jpg?raw=true" width="180px"/>
+
+
 
 华中师范大学计算机学院2020级本科生。就读专业为计算机科学与技术（华为基地班）。华师木犀团队Android组成员，有丰富的项目经验和开发经历。
 
